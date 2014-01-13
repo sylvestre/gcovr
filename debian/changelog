@@ -1,0 +1,16 @@
+gcovr (3.1-1) jessie; urgency=medium
+
+  [ Wolfgang Silbermayr ]
+  * New upstream release
+
+ -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Tue, 14 Jan 2014 09:10:45 +0100
+
+gcovr (2.4-0ubuntu1) quantal; urgency=low
+
+  [ Allan LeSage ]
+  * Initial release (LP: #1046332)
+
+  [Michael Terry]
+  * Clean up packaging a bit
+
+ -- Michael Terry <mterry@ubuntu.com>  Wed, 05 Sep 2012 10:34:34 -0400
