@@ -8,6 +8,8 @@ Build-Depends: debhelper (>= 9),
 X-Python-Version: >= 2.4
 Standards-Version: 3.9.5
 Homepage: http://gcovr.com/
+Vcs-Browser: https://github.com/silwol/gcovr
+Vcs-Git: https://github.com/silwol/gcovr.git
 
 Package: gcovr
 Architecture: all
