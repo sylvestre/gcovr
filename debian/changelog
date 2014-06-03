@@ -2,6 +2,12 @@ gcovr (3.1-1) jessie; urgency=medium
 
   * New upstream release (Closes: #729224)
 
+  [ Sylvestre Ledru ]
+  * Add a watch file
+  * Simplify debian/rules
+  * Update of the copyright file
+  * Add the Vcs-Browser & Vcs-Git fields
+
  -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Tue, 03 Jun 2014 10:33:05 +0200
 
 gcovr (2.4-0ubuntu1) quantal; urgency=low
