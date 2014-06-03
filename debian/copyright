@@ -3,7 +3,8 @@ Upstream-Name: gcovr
 Source: http://gcovr.com/
 
 Files: *
-Copyright: 2008 William Hart <wehart@sandia.gov>
+Copyright: 2013 Sandia Corporation
+           2008 William Hart <wehart@sandia.gov>
            2008 John Siirola <jdsiiro@sandia.gov>
 License: BSD
  Copyright 2008 Sandia Corporation. Under the terms of Contract DE-AC04-
